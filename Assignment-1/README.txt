@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
 Files :
 ----------------------------------------------------------------
-1)apriori.cpp 	(Implementation of the Apriori algorithm)
-2)fptree.cpp	  (Implementation of the FP-Tree algorithm)
+1)apriori.cpp   (Implementation of the Apriori algorithm)
+2)fptree.cpp    (Implementation of the FP-Tree algorithm)
 3)compile.sh	
 4)run.sh
-5)plot.py		    (Python code for plotting the graph between execution time and support threshold)
+5)plot.py       (Python code for plotting the graph between execution time and support threshold)
 6)README.txt
 
 
