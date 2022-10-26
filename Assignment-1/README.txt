@@ -11,7 +11,7 @@ Files :
 
 
 ----------------------------------------------------------------
-Explaination of Q3
+Explaination of Q3 :
 ----------------------------------------------------------------
 On plotting the graph between the execution time of the two algorithms and the support thresholds, we observe that the time required for 
 execution of the two is very close in case of higher thresholds but as the support threshold is decreased, the difference between the 
