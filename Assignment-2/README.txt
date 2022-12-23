@@ -1,6 +1,7 @@
 ----------------------------------------------------------------
 Files :
 ----------------------------------------------------------------
+
 1)   plot.py 	          (Implementation for Q1)
 2)   indexing.py        (Implementation of building index structure for Q2)
 3)   query.py           (Implementation for query processing for Q2)
